@@ -1,6 +1,6 @@
 # Async in C# Deep Dive
 
-This is the presentation and sample code for my talk at the DotNet Oxford User group on Async
+This is the presentation and sample code for Frans Lytzen's talk at the DotNet Oxford User group on Async, 28th March 2017.
 
 This is not yet another session on how to use async/await. You are probably already using that so we won't bore each other with the syntax. Instead we shall be diving deep into how Async actually works and having a look at the benefits and pitfalls.
 
